@@ -1,0 +1,10 @@
+*.log
+*.jou
+*.vpd
+*.vcd
+simv*
+csrc/
+DVEfiles/
+*.key
+*.out
+*.tmp
