@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1772700697.493131602, "rt":0.59, "ut":0.27, "st":0.30}}
+{"vcselab":{"timestamp_begin":1772700698.220956696, "rt":0.43, "ut":0.26, "st":0.12}}
+{"link":{"timestamp_begin":1772700698.752409066, "rt":0.25, "ut":0.13, "st":0.09}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1772700696.674609499}
+{"VCS_COMP_START_TIME": 1772700696.674609499}
+{"VCS_COMP_END_TIME": 1772700699.674532676}
+{"VCS_USER_OPTIONS": "-R -gui -full64 clockwizard.v tb.v -debug_all -kdb"}
+{"vcs1": {"peak_mem": 534844}}
+{"vcselab": {"peak_mem": 225408}}
